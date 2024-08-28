@@ -6,7 +6,7 @@ Design goal is to take a half size plywood sheet (800x1200 mm2) utilizing as muc
 ** Project Structure **
 *** Mechanical ***
 Holds all the files related to the mechanical parts of the project. 
-![Overall Design](OverallDesign.png)
+![Overall Design](https://github.com/HBSorensen/SheetRouter/blob/main/Overalldesign.png)
 
 (Requires FreeCad with Assembly 4 plugin). 
 
