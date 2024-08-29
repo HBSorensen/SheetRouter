@@ -11,7 +11,7 @@ Holds all the files related to the mechanical parts of the project.
 (Requires FreeCad with Assembly 4 plugin). 
 
 ### Electronics ###
-Holdes all the files related to the electronics parts. 
+Holds all the files related to the electronics parts. 
 GRBL is to be used on an Arduino Mega/Uno for controlling the hardware. 
 
 Offline controller is planned to be a custom Linux image running on a Raspberry Pi.
